@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessingWithConsole", "Messi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{46083CDE-28F5-44A2-9105-6EA3CAFABDEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileManipulation", "TextFileManipulation\TextFileManipulation.csproj", "{D9F3EAB2-BDC7-4548-8491-380DCFCA8E22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{46083CDE-28F5-44A2-9105-6EA3CAFABDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46083CDE-28F5-44A2-9105-6EA3CAFABDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46083CDE-28F5-44A2-9105-6EA3CAFABDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F3EAB2-BDC7-4548-8491-380DCFCA8E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F3EAB2-BDC7-4548-8491-380DCFCA8E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F3EAB2-BDC7-4548-8491-380DCFCA8E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F3EAB2-BDC7-4548-8491-380DCFCA8E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
